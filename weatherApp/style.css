@@ -1,0 +1,32 @@
+header{
+    background-color: slategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;   
+}
+
+.input-container{
+    display: flex;
+    gap: 1rem;
+}
+
+main{
+    background-color: darkslategray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 100px);
+    color: white;    
+}
+
+.weather-container{
+    display: flex;
+    gap: 1rem;
+}
+
+
+
+
+
+
